@@ -72,7 +72,3 @@ kalshi_terminal/
   display.py                Rich formatting + all show_ functions
   commands.py               Command dispatcher
 ```
-
-## License
-
-MIT
