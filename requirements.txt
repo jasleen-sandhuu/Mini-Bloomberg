@@ -1,0 +1,5 @@
+rich
+numpy
+requests
+cryptography
+python-dotenv
